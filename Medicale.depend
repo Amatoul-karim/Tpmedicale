@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1744840248 source:c:\users\pc\desktop\troisieme semestre\c++\projet\medicale\main.cpp
+	<iostream>
+	"personnepm.h"
+	"patientmal.h"
+	"medecingen.h"
+
+1744890136 c:\users\pc\desktop\troisieme semestre\c++\projet\medicale\personnepm.h
+	<string>
+
+1744840470 c:\users\pc\desktop\troisieme semestre\c++\projet\medicale\patientmal.h
+	"personnepm.h"
+	<string>
+
+1744840925 c:\users\pc\desktop\troisieme semestre\c++\projet\medicale\medecingen.h
+	"personnepm.h"
+	<string>
+
+1744840734 source:c:\users\pc\desktop\troisieme semestre\c++\projet\medicale\medecin.cpp
+	<iostream>
+	"medecingen.h"
+
+1744840725 source:c:\users\pc\desktop\troisieme semestre\c++\projet\medicale\patient.cpp
+	<iostream>
+	"patientmal.h"
+
+1744840791 source:c:\users\pc\desktop\troisieme semestre\c++\projet\medicale\personne.cpp
+	<iostream>
+	"personnepm.h"
+
